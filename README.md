@@ -25,5 +25,5 @@ The dataset encompasses various attributes relevant to marine fish species and t
 ---
 
 ## Dashboard Features  
-The dashboard, built in **Microsoft Excel**, provides an interactive interface for exploring the dataset.  
+The dashboard, built in **Microsoft Excel** (https://github.com/MaxBiber/Fishing/blob/main/data_fishing.xlsx), provides an interactive interface for exploring the dataset.  
 
